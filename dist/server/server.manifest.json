@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/video-group.js": "components/video-group.js",
+    "components/video-item1.js": "components/video-item1.js",
+    "components/video-item2.js": "components/video-item2.js",
+    "components/video-item3.js": "components/video-item3.js",
+    "components/video-item4.js": "components/video-item4.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/video-group.js": "components/video-group.js.map",
+    "components/video-item1.js": "components/video-item1.js.map",
+    "components/video-item2.js": "components/video-item2.js.map",
+    "components/video-item3.js": "components/video-item3.js.map",
+    "components/video-item4.js": "components/video-item4.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
